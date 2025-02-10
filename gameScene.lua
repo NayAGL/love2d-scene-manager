@@ -24,4 +24,4 @@ function gameScene.keypressed(key)
   end
 end
 
-return gameScene -- Returns an empty table.
+return gameScene -- Returns the table.

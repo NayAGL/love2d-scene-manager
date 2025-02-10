@@ -24,4 +24,4 @@ function titleScreen.keypressed(key)
   end
 end
 
-return titleScreen -- Returns an empty table.
+return titleScreen -- Returns the table.
